@@ -5,7 +5,27 @@ order of precedence:
     3. external styles
 */
 
-p{
-    color: purple
+html {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #1c87c9;
+}
+
+p {
+    color: purple;
     /* background-color: orange; */
+}
+
+/* class selector*/
+.middle-p {
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* id selector */
+#main-text{
+    line-height: 30px;
 }
