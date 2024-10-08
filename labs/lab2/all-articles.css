@@ -26,12 +26,14 @@ article h1 a {
 }
 
 main {
+  /* added wrap to make sure it can adjust to screen size */
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
 }
 
 article {
+  /*article added to help the boxes*/
   flex: 0 0 30%;
   min-width: 30ch;
   max-width: 50ch;
