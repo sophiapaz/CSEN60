@@ -30,7 +30,8 @@ button {
     align-items: center;
 }
 
-body {
+/* how to do flex box */
+/* body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -40,5 +41,12 @@ body {
 main {
     display: flex;
     justify-content: center;
+} */
+
+/* how to do grid */
+body {
+    display: grid;
+    grid-template-rows: 1fr 3fr 1fr;
+    height: 100vh;
 }
 
