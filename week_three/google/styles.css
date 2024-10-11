@@ -30,13 +30,15 @@ button {
     align-items: center;
 }
 
-div { /*this div is around my entire main*/
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh
+}
+
+main {
     display: flex;
     justify-content: center;
 }
 
-footer { 
-    position: absolute; 
-    bottom: 0; 
-    align-items: center;
-}
