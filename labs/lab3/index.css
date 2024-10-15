@@ -1,0 +1,101 @@
+body {
+    display: flex;
+    flex: 0 0 50%;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    width: 100vw
+}
+
+/*selector: selects everything*/
+body > * {
+    display: flex;
+    flex: 0 0 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    gap: 1rem;
+}
+
+/* This is for the profile side of the home page */
+aside {
+    background-color: #54a0ff;
+    height: 100vh;
+    max-width: 35rem;
+    flex: 0 0 35%;
+
+    align-items: center;
+}
+
+.profile {
+    border-radius: 50%;
+    width: 15rem;
+    height: 15rem;
+}
+
+ul {
+    list-style: none;
+
+    display: flex;
+    flex-direction: row;
+    padding-left: 1rem;
+
+}
+
+.logo {
+    width: 2rem;
+    height: 2rem;
+
+    padding: 1rem;  
+}
+
+aside h1{
+    text-align: center;
+}
+
+aside p {
+    text-align: center;
+}
+
+/*for the article*/
+h1 {
+    color: #073164;
+}
+
+time {
+    color: #aaa;
+}
+
+article {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+article header{
+    width: 100%;
+}
+
+/*footer */
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* nav bar under article */
+nav {
+    background-color: white;
+    width: 100%;
+}
+
+.secondary{ 
+    color:#aaa;
+}
+.primary {
+    color: #54a0ff;
+}
+

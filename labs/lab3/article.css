@@ -1,0 +1,54 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+article {
+    width: 40%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    color: #073164;
+}
+
+time {
+    color: #aaa;
+}
+
+nav ul {
+    gap: 1rem;
+    background-color: #54a0ff;
+}
+
+/* all for the footer */
+footer nav{
+    display: flex;
+    background-color: white;
+    gap: 1rem;
+    padding-bottom: 3rem;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    width: 2rem;
+    height: 2rem;
+}
+
+.secondary {
+    text-decoration: none;
+    color: #aaa;
+}
+
+.primary {
+    color: #54a0ff;
+}
