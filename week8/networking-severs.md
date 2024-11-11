@@ -11,3 +11,12 @@
 
 - each website and laptops has its own ip address 
 
+### Testing Tools
+- curl: a way to request data from server (testing for API)
+- ping: check to see if you can get a response from the server 
+- postman: made for testing api (curl wrapper)
+- DNS: Domain Name system
+
+###JS Fetch API (link)
+- API: Application Programming Interface
+
