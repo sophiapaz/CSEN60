@@ -47,3 +47,17 @@ a number of controlled machines, often compromised (hard to spot)
 - HTTPS is a secure HTTP 
     - data passed back and forth is encrypted
     - handled by the security sockets layer (SSL)
+
+### Data Collection: Cookies
+- Why user want cookies
+    - user authentication
+    - site preferences 
+    - contents of a shopping cart
+- devleoper user cookies 
+    - preference in ads
+    - knowing what the users are interested in 
+
+### Privacy Policy
+- Statement saying what the web site does with any information it collects
+- generally considered legally binding
+- written in dense legal language
