@@ -87,3 +87,34 @@ a computer
 - Any action a user takes on a webpage can be logged
 - HTML event listeners!
 - time between actions (ex: how long spent looking at a post)
+
+### Lots of Sensitive Information 
+- Legally sensitive
+    - Heath information: HIPPA
+    - Student information: FERPA
+    - Information about children: COPPA
+- Personally identifiable Information (PII)
+    - name, address, phone, email 
+    - age, gender, race (demographics)
+    - past contributions: purchases, rentals, etc
+- Financial information
+    - credit cards
+    - debit cards
+
+### Privacy Policy
+- statement saying what websites are collecting
+
+### Developer - Legal Responsibility
+- Privacy has legal implications 
+- developer is responsible for breaches of policy
+    - best efforts to avoid them 
+
+### Bodies
+- GDPR (europe)
+    - General Data Protection Regulation
+    - must collect minimum amount of data to achieve stated purpose
+    - consumers have the right to be forgotten
+- CCPA (cali)
+    - California consumer privacy act
+    - less strict than GDPR 
+    - opt out and consent
