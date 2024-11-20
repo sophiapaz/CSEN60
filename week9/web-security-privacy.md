@@ -1,4 +1,4 @@
-# Web Security and Privacy
+# Web Security
 
 ## Notes
 ### Potential Security Oversights
@@ -39,6 +39,7 @@ a number of controlled machines, often compromised (hard to spot)
 - Encryption: 
     - Ensures privact within an organization and on the internet 
     - the conversion of data into an unreadable form, called ciphertext
+    - symmetric and asymmetric encryption
 - Decryption
 
 ### Browser Server Communication
@@ -61,3 +62,28 @@ a number of controlled machines, often compromised (hard to spot)
 - Statement saying what the web site does with any information it collects
 - generally considered legally binding
 - written in dense legal language
+
+### Secure Socket Layer (SSL)
+- developed by Netscape
+- encrypts data sent between a client and web server
+- https is http over ssl 
+- Digital Certificate:
+    - A form of an asymmetric key
+    - contains information about the Certificate
+    - used by ssl to authenticate
+    - stores public key
+
+# Web Privacy
+### Data Collection 
+- forms, user entry, social networks, online shopping, online finances
+- data is always related to privacy
+
+### Cookies
+- definition: a name/vale pair created by a website to store information on
+a computer
+- user authentication and site preference (why we use cookies)
+
+### Behavior Logging
+- Any action a user takes on a webpage can be logged
+- HTML event listeners!
+- time between actions (ex: how long spent looking at a post)
