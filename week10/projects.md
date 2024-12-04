@@ -26,6 +26,25 @@
 - Claude AI 
 - comments are really important 
 
-## Reddit
+## Nike
+- used tailwind css, react, and nextjs
+- tailwind has classnames to style (no need for separate file)
+- web technologies are constantly evolving (creating full stack is only getting easier)
+- devtools is a really strong tool
+- vercel is a great resource or tool
+
+## reddit
+- comments are really helpful and the hierarchy layout
+- javascript is very different (stackoverflow, w3schools, etc)
+- made a really cool carousel
+
+## Math 13 Page
+- orginal website is really hard to use and look at
+- slides are very well done (love the animatios)
+- made pop ups, advanced accordion, and search feature
+- nielsen heuristics, figma
+- used inspiration from canvas/camino
+- search bar is really well done
+
 
 
