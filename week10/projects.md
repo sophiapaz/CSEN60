@@ -46,5 +46,16 @@
 - used inspiration from canvas/camino
 - search bar is really well done
 
+## Bluey
+- website that shows who the characters are in the show Bluey
+- best practices: chat gpt, youtube, and the mozilla W3Docs
+- merge conflicts were an issue
+- implemented a scroll to make it efficent
+- website was really well replicated
 
+## Pinterest
+- saving a pin to folder as the main function
+- cookies and server was a big task
+- different screensize was also a challenges
+- communication and time managment is important
 
